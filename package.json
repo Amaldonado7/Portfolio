@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Web built with vanilla js",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "sass": "^1.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaldonado7/Portforlio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",  
+  "homepage": "https://ariadnamaldonado.github.io/portfolio"
+}
